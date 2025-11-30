@@ -1,7 +1,7 @@
 
 #### 技术栈
 
-- SpringBooot
+- SpringBoot
 - Vue
 - MySQL
 
